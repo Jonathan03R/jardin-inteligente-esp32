@@ -1,0 +1,3 @@
+garden_esp32/secrets.h
+*.log
+.DS_Store
